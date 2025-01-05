@@ -1,0 +1,19 @@
+p {
+    background-color: pink;
+
+}
+
+#two {
+    color: blue;
+    font-size: 36px
+}
+
+.cooler {
+    font-size: 24px
+}
+
+#four {
+    background-color: rgb(140, 230, 140);
+    font-size: 24px;
+    font-weight: bold;
+}
